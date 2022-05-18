@@ -29,9 +29,15 @@ Hash function to separe the value and key :  <br/>
 <br />
 Logic to verify if new file has been created, deleted or changed <br/>
 <img src="https://i.imgur.com/kEPuehj.png" height="80%" width="80%" alt="Ensure connectivity with VM"/>
-<br />
+ <br />
+ <br/>
+Output: <br/>
+<img src="https://i.imgur.com/Tt8avnX.png" height="80%" width="80%" alt="Ensure connectivity with VM"/>
+<br/>
+ <br/>
+<br/>
  
- 
+ </p>
  
 <!--
  ```diff
